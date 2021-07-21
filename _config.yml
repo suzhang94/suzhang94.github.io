@@ -39,6 +39,9 @@ author:
     #   url:
     - name: LinkedIn
       url: "https://linkedin.com/in/suzhang94"
+
+    - name: CV 
+      url: "/files/CV_SZ.pdf"
     # - name: ORCID
     #   url:
     # - name: ResearchGate
