@@ -17,10 +17,10 @@ show_header: false  # Whether to show a header on the top of all pages or not.
 author:
   name: "Su Zhang"
   photo: "/assets/images/photo.png"  # Put your portrait in /assets/images folder and set the filename here.
-  email: su.zhang2@wsu.edu
-    username: example
-    domain: gmail
-    tld: com
+  email: 
+    username: su.zhang2
+    domain: wsu
+    tld: edu
 
   # Your presence on social networks. For each filled entry, a button will be displayed on the homepage.
   # Use your full profile URL for the following items.
