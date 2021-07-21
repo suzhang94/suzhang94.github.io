@@ -68,10 +68,10 @@ collections:
     permalink: /:title/
     order:  # Order of displaying pages in the header (matters only if header enabled)
       - home.md
-      - news.md
-  courses:
-    output: true
-    permalink: /teaching/:title/
+      # - news.md
+  # courses:
+  #   output: true
+  #   permalink: /teaching/:title/
 
 logo: /assets/images/sponsors/irll.png
 
