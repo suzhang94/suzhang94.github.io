@@ -8,16 +8,16 @@
 # Site settings
 title: The Intelligent Robot Learning Lab  # Site title (shown in browser tab header)
 description: ""  # Put a short description of your website here. It'll show on the Google search results.
-url: ""  # Complete URL of your website, e.g. https://username.github.io or https://username.com
+url: "https://suzhang94.github.io"  # Complete URL of your website, e.g. https://username.github.io or https://username.com
 baseurl: ""  # If website is served from a subdirectory, put its name here with leading slash (e.g. /directory).
 ga_tracking_id: ""  # Google Analytics tracking ID
 show_header: false  # Whether to show a header on the top of all pages or not.
 
 # Author settings
 author:
-  name: "Awsome Person"
-  photo: "/assets/images/default.png"  # Put your portrait in /assets/images folder and set the filename here.
-  email:
+  name: "Su Zhang"
+  photo: "/assets/images/photo.png"  # Put your portrait in /assets/images folder and set the filename here.
+  email: su.zhang2@wsu.edu
     username: example
     domain: gmail
     tld: com
@@ -28,38 +28,38 @@ author:
   social:
     - name: Google Scholar
       icon: fas fa-graduation-cap
-      url: "https://scholar.google.com/citations?user=SOMETHING&hl=en"
-    - name: BitBucket
-      url:
-    - name: Facebook
-      url:
+      url: "https://scholar.google.com/citations?user=0R04qoAAAAAJ&hl=en"
+    # - name: BitBucket
+    #   url:
+    # - name: Facebook
+    #   url:
     - name: Github
-      url: "https://github.com/username"
-    - name: Instagram
-      url:
+      url: "https://github.com/suzhang94"
+    # - name: Instagram
+    #   url:
     - name: LinkedIn
-      url: "https://linkedin.com/in/username"
-    - name: ORCID
-      url:
-    - name: ResearchGate
-      url:
-    - name: SoundCloud
-      url:
-    - name: Stack Overflow
-      url:
-    - name: Tumblr
-      url:
-    - name: Twitter
-      url:  "https://twitter.com/username"
-    - name: Weibo
-      url:
-    - name: XING
-      url:
-    - name: Youtube
-      url:
+      url: "https://linkedin.com/in/suzhang94"
+    # - name: ORCID
+    #   url:
+    # - name: ResearchGate
+    #   url:
+    # - name: SoundCloud
+    #   url:
+    # - name: Stack Overflow
+    #   url:
+    # - name: Tumblr
+    #   url:
+    # - name: Twitter
+    #   url:  "https://twitter.com/username"
+    # - name: Weibo
+    #   url:
+    # - name: XING
+    #   url:
+    # - name: Youtube
+    #   url:
 
 # Content settings
-timezone: America/Edmonton  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
+timezone: America/Pullman  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
 featured_posts: 3  # Number of features news shown on the homepage.
 
 collections:
