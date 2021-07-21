@@ -7,7 +7,7 @@ navigation_name: Home
 description: /
 ---
 
-I'm a Ph.D. student at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/).
+I'm a Ph.D. student at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/), member of [the IRL Lab](https://irll.ca).
 
 ## Research Interest
 Machine Learning, Reinforcement Learning, Transfer Learning, Case-based Reasoning 
