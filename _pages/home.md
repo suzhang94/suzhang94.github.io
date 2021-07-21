@@ -4,9 +4,10 @@ title: Su Zhang
 permalink: /
 navigation: true
 navigation_name: Home
-description: > # try to keep it the same as _config.yml > description field, which is used as a fallback for pages without description or excerpt.
-  I'm a Ph.D. student at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/), a member of the Intelligent Robot Learning Laboratory.
+description: /
 ---
+
+I'm a Ph.D. student at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/), a member of the Intelligent Robot Learning Laboratory.
 
 ## Research Interest
 Machine Learning, Reinforcement Learning, Transfer Learning, Case-based Reasoning 
