@@ -71,10 +71,11 @@ collections:
     permalink: /:title/
     order:  # Order of displaying pages in the header (matters only if header enabled)
       - home.md
-      # - news.md
-  # courses:
-  #   output: true
-  #   permalink: /teaching/:title/
+      #- news.md
+  recent_works:
+    output: true
+    permalink: /recent_works/:title/
+      - TL_AC.md
 
 logo: /assets/images/sponsors/irll.png
 
