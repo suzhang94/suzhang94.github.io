@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: no-heading
 title: TLAC
 permalink: /
-navigation: true
+navigation: false
 navigation_name: Recent Works
 description: /
 ---
