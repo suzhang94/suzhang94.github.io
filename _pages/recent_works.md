@@ -1,6 +1,6 @@
 ---
-layout: no-heading
-title: Two-Level Actor-Critic Using Multiple Teachers: Extended Abstract.
+layout: home
+title: TLAC
 permalink: /
 navigation: true
 navigation_name: Recent Works
