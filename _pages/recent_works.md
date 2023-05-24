@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Two-Level Actor-Critic Using Multiple Teachers: Extended Abstract.
-permalink: /
+permalink: /:Recent Works/
 navigation: true
 navigation_name: Recent Works
 description: /
