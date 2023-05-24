@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: no-heading
 title: Two-Level Actor-Critic Using Multiple Teachers: Extended Abstract.
-permalink: /:title/
+permalink: /
 navigation: true
 navigation_name: Recent Works
 description: /
@@ -13,7 +13,7 @@ description: /
  
 ## Extended Abstract
 - name: LinkedIn
-      url: "/files/CV_SZ.pdf"
+      url: "/files/TLAC_ExtendedAbstract.pdf"
       
 ## Full Paper
       url: "/files/CV_SZ.pdf"
