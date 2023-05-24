@@ -2,7 +2,7 @@
 layout: home
 title: Su Zhang
 permalink: /
-navigation: true
+navigation: false
 navigation_name: Home
 description: /
 ---
