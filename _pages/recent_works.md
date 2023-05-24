@@ -2,7 +2,7 @@
 layout: post
 title: TLAC
 permalink: /
-navigation: false
+navigation: true
 navigation_name: Recent Works
 description: /
 ---
