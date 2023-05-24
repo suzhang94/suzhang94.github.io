@@ -94,7 +94,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      featured: true
+      featured: false
 
   - scope:
       path: ""
