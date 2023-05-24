@@ -76,10 +76,10 @@ collections:
 logo: /assets/images/sponsors/irll.png
 
 defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/images/sponsors/irll.png
+  # - scope:
+  #     path: ""
+  #   values:
+  #     image: /assets/images/sponsors/irll.png
 
 # You DO NOT need to edit the following lines. Change them only if you KNOW what you're doing.
 

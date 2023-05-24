@@ -1,20 +1,19 @@
 ---
 layout: home
-title: Su Zhang
+title: Two-Level Actor-Critic Using Multiple Teachers: Extended Abstract.
 permalink: /
 navigation: true
-navigation_name: Home
+navigation_name: Recent Works
 description: /
 ---
 
-I'm a Ph.D. candidate at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/), member of [the IRL Lab](https://irll.ca).
+## Abstract
 
-## Research Interest
-Machine Learning, Reinforcement Learning, Transfer Learning, Learn from Demonstration
-
-## Publications
-Paper Code: Conference paper: [C]; Workshop paper: [W];
-1. [C] Two-Level Actor-Critic Using Multiple Teachers: Extended Abstract. Su Zhang, Srijita Das, Sriram Ganapathi Subramanian, and Matthew E. Taylor. International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023), 2023.  
-3. [W] Work-In-Progress: Enhanced Learning from Multiple Demonstrations with a Two-level Structured Approach. Su Zhang, Matthew E. Taylor. Adaptive Learning Agents Workshop (at AAMAS), 2018
-4. [C] Maintenance for Case Streams: A Streaming Approach to Competence-Based Deletion.Yang Zhang, Su Zhang, and David Leake. International Conference on Case-Based Reasoning (ICCBR), 2017
-5. [W] Case-Base Maintenance: A Streaming Approach. Yang Zhang, Su Zhang, and David Leake. International Conference on Case-Based Reasoning (ICCBR) Workshops, 2016
+ Deep reinforcement learning has successfully allowed agents to learn complex behaviors for many tasks. However, a key limitation of current learning approaches is the sample-inefficiency problem, which limits performance of the learning agent. This paper considers how agents can benefit from improved learning via teachers' advice. In particular, we consider the setting with multiple sub-optimal teachers, as opposed to having a single near-optimal teacher. We propose a flexible two-level actor-critic algorithm where the high-level network learns to choose the best teacher in the current situation while the low-level network learns the control policy. 
+ 
+## Extended Abstract
+- name: LinkedIn
+      url: "/files/CV_SZ.pdf"
+      
+## Full Paper
+      url: "/files/CV_SZ.pdf"
