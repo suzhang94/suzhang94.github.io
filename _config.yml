@@ -71,9 +71,9 @@ collections:
     permalink: /:title/
     order:  # Order of displaying pages in the header (matters only if header enabled)
       - home.md
-      - TL_AC.md
+      - recent_works.md
 
-logo: /assets/images/sponsors/irll.png
+#logo: /assets/images/sponsors/irll.png
 
 defaults:
   # - scope:
