@@ -1,9 +1,9 @@
 ---
-title: Recent Updates
-permalink: /news/ # do not change, hard-coded in `All Updates` button in the homepage.
-layout: news
+title: Recent Works
+permalink: /works/ # do not change, hard-coded in `All Updates` button in the homepage.
+layout: no-heading
 navigation: true
-navigation_name: Recent Updates 
+navigation_name: Recent Works
 published: true
 description: >
   Follow the latest updates and news on this page.  
