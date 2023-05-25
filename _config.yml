@@ -71,7 +71,7 @@ collections:
     permalink: /:title/
     order:  # Order of displaying pages in the header (matters only if header enabled)
       - home.md
-      - updates.md
+      #- updates.md
 
 logo: /assets/images/sponsors/irll.png
 
