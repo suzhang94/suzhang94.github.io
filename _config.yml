@@ -7,7 +7,7 @@
 
 # Site settings
 title: The Intelligent Robot Learning Lab  # Site title (shown in browser tab header)
-description: ""  # Put a short description of your website here. It'll show on the Google search results.
+description: "Homepage of SZ"  # Put a short description of your website here. It'll show on the Google search results.
 url: "https://suzhang94.github.io"  # Complete URL of your website, e.g. https://username.github.io or https://username.com
 baseurl: ""  # If website is served from a subdirectory, put its name here with leading slash (e.g. /directory).
 ga_tracking_id: ""  # Google Analytics tracking ID
