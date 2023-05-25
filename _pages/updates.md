@@ -8,7 +8,7 @@ published: true
 description: >
   Follow the latest updates and news on this page.  
 ---
-# [Two-Level Actor-Critic Using Multiple Teachers](https://suzhang94.github.io/TLAC/)
+** [Two-Level Actor-Critic Using Multiple Teachers](https://suzhang94.github.io/TLAC/)**
 
 Su Zhang, Srijita Das, Sriram Ganapathi Subramanian, and Matthew E. Taylor.
 

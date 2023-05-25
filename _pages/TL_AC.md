@@ -2,7 +2,6 @@
 title:TLAC
 permalink: /TLAC/
 layout: no-heading
-navigation: true
 published: true
 sitemap: false
 ---
