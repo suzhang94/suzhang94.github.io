@@ -5,7 +5,6 @@ permalink: /
 navigation: true
 navigation_name: Home
 description: >
-	Homepage of SZ.
 ---
 
 I'm a Ph.D. candidate at School of Electrical Engineering and Computer Science, Washington State University, under supervision of [Dr. Matthew E. Taylor](https://drmatttaylor.net/), member of [the IRL Lab](https://irll.ca).
