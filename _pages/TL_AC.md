@@ -1,14 +1,12 @@
 ---
-title: Recent Works
-permalink: /works/ # do not change, hard-coded in `All Updates` button in the homepage.
+title:TLAC
+permalink: /TLAC/
 layout: no-heading
 navigation: true
-navigation_name: Recent Works
 published: true
-description: >
-  Follow the latest updates and news on this page.  
+sitemap: false
 ---
-# [Two-Level Actor-Critic Using Multiple Teachers](https://suzhang94.github.io/TLAC/)
+# Two-Level Actor-Critic Using Multiple Teachers
 
 Su Zhang, Srijita Das, Sriram Ganapathi Subramanian, and Matthew E. Taylor.
 
