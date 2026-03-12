@@ -11,7 +11,7 @@ description: ""  # Put a short description of your website here. It'll show on t
 url: "https://suzhang94.github.io"  # Complete URL of your website, e.g. https://username.github.io or https://username.com
 baseurl: ""  # If website is served from a subdirectory, put its name here with leading slash (e.g. /directory).
 ga_tracking_id: ""  # Google Analytics tracking ID
-show_header: true  # Whether to show a header on the top of all pages or not.
+show_header: false
 
 # Author settings
 author:
@@ -130,4 +130,4 @@ kramdown:
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
 
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal  # Using custom layout
