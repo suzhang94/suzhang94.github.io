@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Intelligent Robot Learning Lab  # Site title (shown in browser tab header)
+title: Su Zhang  # Site title (shown in browser tab header)
 description: ""  # Put a short description of your website here. It'll show on the Google search results.
 url: "https://suzhang94.github.io"  # Complete URL of your website, e.g. https://username.github.io or https://username.com
 baseurl: ""  # If website is served from a subdirectory, put its name here with leading slash (e.g. /directory).
@@ -41,7 +41,7 @@ author:
       url: "https://linkedin.com/in/suzhang94"
 
     - name: CV 
-      url: "/files/CV_SZ.pdf"
+      url: "/files/CV_SZ_2026.pdf"
     # - name: ORCID
     #   url:
     # - name: ResearchGate
@@ -62,7 +62,7 @@ author:
     #   url:
 
 # Content settings
-timezone: America/Washington/Pullman  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
+timezone: America/Los_Angeles  # Change it based on your location. Any entry from the IANA Time Zone Database is valid.
 featured_posts: 1  # Number of features news shown on the homepage.
 
 collections:
@@ -71,15 +71,15 @@ collections:
     permalink: /:title/
     order:  # Order of displaying pages in the header (matters only if header enabled)
       - home.md
-      #- updates.md
+      - updates.md
 
-logo: /assets/images/sponsors/irll.png
+logo: /assets/images/photo.png
 
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/sponsors/irll.png
+      image: /assets/images/photo.png
 
 # You DO NOT need to edit the following lines. Change them only if you KNOW what you're doing.
 
