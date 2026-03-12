@@ -1,5 +1,5 @@
 ---
-title: Recent Works
+title: Recent
 permalink: /works/ # do not change, hard-coded in `All Updates` button in the homepage.
 layout: no-heading
 navigation: true
